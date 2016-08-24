@@ -9,13 +9,21 @@
       }
 
       BODY {
-        background: #082330;
+        background: #FFFFFF;
         background-size: .12em 100%;
         font: 16em/1 Arial;
       }
 
       .text--line {
         font-size: .5em;
+      }
+
+      .text--line2 {
+        font-size: .65em;
+      }
+
+      .text--line3 {
+        font-size: .3em;
       }
 
       svg {
@@ -33,23 +41,23 @@
                 animation: stroke-offset 9s infinite linear;
       }
       .text-copy:nth-child(1) {
-        stroke: #360745;
+        stroke: #585858;
         stroke-dashoffset: 7%;
       }
       .text-copy:nth-child(2) {
-        stroke: #D61C59;
+        stroke: #0E0E0E;
         stroke-dashoffset: 14%;
       }
       .text-copy:nth-child(3) {
-        stroke: #E7D84B;
+        stroke: #A4A4A4;
         stroke-dashoffset: 21%;
       }
       .text-copy:nth-child(4) {
-        stroke: #EFEAC5;
+        stroke: #E0E0E0;
         stroke-dashoffset: 28%;
       }
       .text-copy:nth-child(5) {
-        stroke: #1B8798;
+        stroke: #272727;
         stroke-dashoffset: 35%;
       }
 
@@ -70,7 +78,7 @@
     </style>
   </head>
   <body>
-    <svg viewBox="0 0 800 600">
+    <svg viewbox="0 0 800 600">
       <symbol id="s-text">
         <text text-anchor="middle"
               x="50%"
@@ -85,6 +93,13 @@
               class="text--line2"
               >
           Recknagel
+        </text>
+        <text text-anchor="middle"
+              x="80%"
+              y="45%"
+              class="text--line3"
+              >
+          .de
         </text>
       </symbol>
       <g class="g-ants">
