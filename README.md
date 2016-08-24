@@ -1,0 +1,10 @@
+# Frameworks:
+* Bootstrap
+* Fontawesome
+* http://samherbert.net/svg-loaders/
+* http://tympanus.net/Development/ButtonComponentMorph/
+* http://www.webdirections.org/blog/creating-ios-7-effects-with-css3-translucency-and-transparency/
+* http://www.connoratherton.com/walkway
+* http://tympanus.net/Development/HoverEffectIdeas/
+* http://codepen.io/znak/pen/ntsdy
+* http://codepen.io/lessthanthree/pen/Bwzrv

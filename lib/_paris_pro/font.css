@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'paris_proultra_light';
+    src: url('parispro-ultra-light-webfont.eot');
+    src: url('parispro-ultra-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('parispro-ultra-light-webfont.woff2') format('woff2'),
+         url('parispro-ultra-light-webfont.woff') format('woff'),
+         url('parispro-ultra-light-webfont.ttf') format('truetype'),
+         url('parispro-ultra-light-webfont.svg#paris_proultra_light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'paris_prolight_book';
+    src: url('parispro-light-book-webfont.eot');
+    src: url('parispro-light-book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('parispro-light-book-webfont.woff2') format('woff2'),
+         url('parispro-light-book-webfont.woff') format('woff'),
+         url('parispro-light-book-webfont.ttf') format('truetype'),
+         url('parispro-light-book-webfont.svg#paris_prolight_book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
